@@ -1323,3 +1323,7 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+body {
+	background: url('/img/hex-pattern.png') repeat fixed;
+}
