@@ -4,12 +4,14 @@ date: 2024-09-26T07:00:28+01:00
 thumbnail: 'img/AI-use-among-lawyers-soaring.png'
 images: 
 - 'img/AI-use-among-lawyers-soaring.png'
-draft: true
+draft: false
 ---
 
 Leading the wave of change in the artificial intelligence space is the legal profession, where AI adoption has seen a near-fourfold surge in just a year. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-use-among-lawyers-soaring-but-impact-on-fees-uncertain-e2opq17" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 This monumental shift cannot be understated, as more than 80% of lawyers now use or plan to use AI.
 
