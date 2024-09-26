@@ -4,6 +4,8 @@ date: 2024-09-23T09:00:28+01:00
 thumbnail: 'img/china-catching-up-west-ai.png'
 images: 
 - 'img/china-catching-up-west-ai.png'
+tags:
+  - "China"
 draft: false
 ---
 

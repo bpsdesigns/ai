@@ -4,6 +4,8 @@ date: 2024-09-20T13:25:40+01:00
 thumbnail: 'img/what-the-financial-times-learned-from-experimenting-with-ai.png'
 images: 
 - 'img/what-the-financial-times-learned-from-experimenting-with-ai.png'
+tags:
+  - "Journalism"
 draft: false
 ---
 

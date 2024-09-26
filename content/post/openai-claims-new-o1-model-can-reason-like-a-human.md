@@ -4,6 +4,8 @@ date: 2024-09-18T12:30:37+01:00
 thumbnail: '/img/openai-claims-new-o1-model-can-reason-like-a-human.png'
 images: 
 - '/img/openai-claims-new-o1-model-can-reason-like-a-human.png'
+tags:
+  - "OpenAI"
 draft: false
 ---
 

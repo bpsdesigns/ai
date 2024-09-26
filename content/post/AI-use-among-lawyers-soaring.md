@@ -4,6 +4,8 @@ date: 2024-09-26T07:00:28+01:00
 thumbnail: 'img/AI-use-among-lawyers-soaring.png'
 images: 
 - 'img/AI-use-among-lawyers-soaring.png'
+tags:
+  - "Law"
 draft: false
 ---
 

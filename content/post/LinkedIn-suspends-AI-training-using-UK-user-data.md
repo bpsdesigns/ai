@@ -4,6 +4,8 @@ date: 2024-09-25T08:00:22+01:00
 thumbnail: 'img/LinkedIn-Suspends-AI-Training-UK-User-Data.png'
 images: 
 - 'img/LinkedIn-Suspends-AI-Training-UK-User-Data.png'
+tags:
+  - "AI Training"
 draft: false
 ---
 

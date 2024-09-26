@@ -4,6 +4,8 @@ date: 2024-09-19T13:14:32+01:00
 thumbnail: 'img/one-in-five-gps-use-ai-such-as-chatgpt-for-daily-tasks.png'
 images: 
 - 'img/one-in-five-gps-use-ai-such-as-chatgpt-for-daily-tasks.png'
+tags:
+  - "Medical"
 draft: false
 ---
 

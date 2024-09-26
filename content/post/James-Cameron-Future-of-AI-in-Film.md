@@ -4,6 +4,8 @@ date: 2024-09-30T07:00:43+01:00
 thumbnail: 'img/James-Cameron-Future-AI-Film.png'
 images: 
 - 'img/James-Cameron-Future-AI-Film.png'
+tags:
+  - "Film"
 draft: true
 ---
 

@@ -4,6 +4,8 @@ date: 2024-09-23T14:36:20+01:00
 thumbnail: 'img/AI-Revolution-in-News-Publishing.png'
 images: 
 - 'img/AI-Revolution-in-News-Publishing.png'
+tags:
+  - "Journalism"
 draft: true
 ---
 

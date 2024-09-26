@@ -4,6 +4,8 @@ date: 2024-09-27T07:00:28+01:00
 thumbnail: 'img/AI-Outwits-CAPTCHA.png'
 images: 
 - 'img/AI-Outwits-CAPTCHA.png'
+tags:
+  - "Security"
 draft: true
 ---
 

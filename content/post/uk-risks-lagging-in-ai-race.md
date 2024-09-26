@@ -4,6 +4,8 @@ date: 2024-09-23T13:54:09+01:00
 thumbnail: 'img/UK-Risks-Being-Left-Behind-Ai-Race.png'
 images: 
 - 'img/UK-Risks-Being-Left-Behind-Ai-Race.png'
+tags:
+  - "UK"
 draft: true
 ---
 

@@ -4,6 +4,8 @@ date: 2024-10-01T07:00:28+01:00
 thumbnail: 'img/AI-Powered-Drug-Repurposing.png'
 images: 
 - 'img/AI-Powered-Drug-Repurposing.png'
+tags:
+  - "Medical"
 draft: true
 ---
 
