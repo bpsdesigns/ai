@@ -1,10 +1,11 @@
 ---
 title: Privacy Policy
-# date: 2024-09-22T11:00:00.000Z
 sidebar: false
 pager: false
 menu: footer
 authorbox: false
+images: 
+- 'img/privacy.png'
 ---
 
 1\. This privacy policy applies to Artificial Insights’ website at artificialinsights.tech (the “Website”). We at Artificial Insights take your privacy seriously. This policy covers the collection, processing and other use of personal data under the Data Protection Act 2018 (“DPA”) and the General Data Protection Regulations (“GDPR”).

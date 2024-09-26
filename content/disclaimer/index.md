@@ -4,6 +4,8 @@ sidebar: false
 menu: footer
 pager: false
 authorbox: false
+images: 
+- 'img/disclaimer.png'
 ---
 
 Please read this disclaimer carefully before using our website and consuming our content. 

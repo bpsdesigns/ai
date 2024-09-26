@@ -4,6 +4,8 @@ sidebar: false
 menu: main
 pager: false
 authorbox: false
+images: 
+- 'img/contact-us.png'
 ---
 
 Thank you for visiting Artificial Insights. Whether you’re a devoted podcast listener, an avid blog reader, or simply someone passionate about artificial intelligence, we want to hear from you!

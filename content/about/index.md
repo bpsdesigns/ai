@@ -4,6 +4,8 @@ sidebar: false
 menu: main
 pager: false
 authorbox: false
+images: 
+- 'img/about-us.png'
 ---
 
 Welcome to Artificial Insights!

@@ -1,12 +1,13 @@
 ---
 title: Terms and Conditions
-# date: 2024-09-22T11:00:00.000Z
 sidebar: false
 pager: false
 menu:
   footer:
     name: Terms
 authorbox: false    
+images: 
+- 'img/terms.png'
 ---
 
 Last Updated: 20 September 2024
