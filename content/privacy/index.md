@@ -6,6 +6,7 @@ menu: footer
 authorbox: false
 images: 
 - 'img/privacy.png'
+description: This privacy policy applies to Artificial Insights’ website at artificialinsights.tech (the “Website”).
 ---
 
 1\. This privacy policy applies to Artificial Insights’ website at artificialinsights.tech (the “Website”). We at Artificial Insights take your privacy seriously. This policy covers the collection, processing and other use of personal data under the Data Protection Act 2018 (“DPA”) and the General Data Protection Regulations (“GDPR”).

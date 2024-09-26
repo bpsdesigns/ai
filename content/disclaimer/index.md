@@ -6,6 +6,7 @@ pager: false
 authorbox: false
 images: 
 - 'img/disclaimer.png'
+description: Please read this disclaimer carefully before using our website and consuming our content. 
 ---
 
 Please read this disclaimer carefully before using our website and consuming our content. 

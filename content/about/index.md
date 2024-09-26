@@ -6,6 +6,7 @@ pager: false
 authorbox: false
 images: 
 - 'img/about-us.png'
+description: At Artificial Insights, we are passionate about exploring the fascinating world of artificial intelligence and related technologies. Our mission is to provide our readers and listeners with in-depth analysis, thought-provoking articles, and engaging podcasts that untangle the complexities of AI, machine learning, robotics, and more.
 ---
 
 Welcome to Artificial Insights!
