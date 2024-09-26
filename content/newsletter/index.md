@@ -4,6 +4,7 @@ sidebar: false
 pager: false
 authorbox: false
 noindex: true
+private: true
 ---
 
 Thank you for joining our newsletter! **There is one more step**.

@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Artificial Insights'
 theme = 'mainroad'
 pagination.pagerSize = "5" # Number of posts per page
+enableRobotsTXT = true
 
 [Params]
   description = "Exploring AI: Innovations, Insights, and the Future of Tech" # Logo subtitle" # Description of your site
@@ -11,7 +12,7 @@ pagination.pagerSize = "5" # Number of posts per page
   readmore = false # Show "Read more" button in list if true
   authorbox = false
   pager = true
-  post_meta = ["date", "categories"] # Order of post meta information
+  post_meta = ["date"] # Order of post meta information
   mainSections = ["post"]
 
 [Params.logo]
@@ -34,3 +35,6 @@ pagination.pagerSize = "5" # Number of posts per page
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[taxonomies]
+  tag = 'tags'
