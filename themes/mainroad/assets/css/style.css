@@ -1327,3 +1327,7 @@ textarea {
 body {
 	background: url('/img/hex-pattern.png') repeat fixed;
 }
+
+.email-form {
+	min-height: 200px;
+}
