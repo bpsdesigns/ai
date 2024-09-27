@@ -2,7 +2,6 @@ baseURL = "https://artificialinsights.tech/"
 languageCode = 'en-us'
 title = "Exploring AI: Innovations, Insights, and the Future of Tech"
 theme = "mainroad"
-pagination.pagerSize = 6 # Number of posts per page
 enableRobotsTXT = true
 
 [Params]
@@ -40,3 +39,8 @@ unsafe = true
 
 [taxonomies]
   tag = 'tags'
+
+[pagination]
+  disableAliases = false
+  pagerSize = 6
+  path = 'page'
