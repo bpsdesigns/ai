@@ -1,7 +1,7 @@
-baseURL = 'https://artificialinsights.tech/' 
+baseURL = "https://artificialinsights.tech/" 
 languageCode = 'en-us'
-title = 'Exploring AI: Innovations, Insights, and the Future of Tech'
-theme = 'mainroad'
+title = "Exploring AI: Innovations, Insights, and the Future of Tech"
+theme = "mainroad"
 pagination.pagerSize = 6 # Number of posts per page
 enableRobotsTXT = true
 
@@ -17,7 +17,7 @@ enableRobotsTXT = true
   copyright = "Artificial Insights"
 
 [Params.logo]
-  title = 'Artificial Insights'
+  title = "Artificial Insights"
   subtitle = "Exploring AI: Innovations, Insights, and the Future of Tech" # Logo subtitle
   image = "/img/artificial-insights-logo.png"
 
