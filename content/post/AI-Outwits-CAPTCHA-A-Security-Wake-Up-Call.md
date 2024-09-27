@@ -6,12 +6,14 @@ images:
 - 'img/AI-Outwits-CAPTCHA.png'
 tags:
   - "Security"
-draft: true
+draft: false
 ---
 
 In a recent breakthrough study from ETH Zurich, as reported by TechRadar's Eric Hal Schwartz, researchers have demonstrated the startling ability of AI to crack CAPTCHA systems with alarming proficiency. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-Outwits-CAPTCHA-A-Security-Wake-Up-Call-e2oq4j6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 This crucial development propels cybersecurity into uncharted territory, revealing both the capabilities and risks associated with advanced AI technologies.
 
