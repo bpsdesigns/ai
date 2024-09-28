@@ -6,7 +6,7 @@ pager: false
 authorbox: false
 images: 
 - 'img/contact-us.png'
-description: Thank you for visiting Artificial Insights. Whether you’re a devoted podcast listener, an avid blog reader, or simply someone passionate about artificial intelligence, we want to hear from you!
+description: Join Artificial Insights! Dive into AI content and share your passion. Perfect for podcast listeners, blog readers, and AI enthusiasts.
 ---
 
 Thank you for visiting Artificial Insights. Whether you’re a devoted podcast listener, an avid blog reader, or simply someone passionate about artificial intelligence, we want to hear from you!

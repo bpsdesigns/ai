@@ -8,7 +8,7 @@ menu:
 authorbox: false    
 images: 
 - 'img/terms.png'
-description: Welcome to Artificial Insights! These terms and conditions outline the rules and regulations for the use of our website, located at artificialinsights.tech (the “Website”).
+description: Welcome to Artificial Insights! Read our terms and conditions for using our website at artificialinsights.tech.
 ---
 
 Last Updated: 20 September 2024
