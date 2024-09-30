@@ -6,12 +6,14 @@ images:
 - 'img/James-Cameron-Future-AI-Film.png'
 tags:
   - "Film"
-draft: true
+draft: false
 ---
 
 The film industry is on the cusp of a technological revolution, and once again, James Cameron is at the forefront. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/James-Cameron-and-the-Future-of-AI-in-Film-e2orls6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Known for his revolutionary use of special effects in films like "Avatar" and "Terminator 2," Cameron has recently joined forces with StabilityAI, a company recognized for its text-to-image generator, Stable Diffusion. This collaboration could mark a significant shift in how films are created, pushing the boundaries of computer-generated imagery (CGI) through cutting-edge AI technology.
 
