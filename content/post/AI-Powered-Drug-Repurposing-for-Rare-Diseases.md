@@ -6,12 +6,14 @@ images:
 - 'img/AI-Powered-Drug-Repurposing.png'
 tags:
   - "Medical"
-draft: true
+draft: false
 ---
 
 Imagine feeling sick but no one knows exactly what's wrong, and there's no medicine to make you better. For about 300 million people around the world suffering from rare diseases, this is a daily reality. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-Powered-Drug-Repurposing-for-Rare-Diseases-e2ormtr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Rare diseases are medical conditions that affect a small number of people, and because so few people have them, there isn't always a lot of research or new treatments available. But a new AI model called TxGNN might change all that!
 
