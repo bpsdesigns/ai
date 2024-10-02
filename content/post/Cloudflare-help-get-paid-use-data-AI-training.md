@@ -7,12 +7,14 @@ images:
 tags:
   - "AI Training"
 description: Cloudflare's AI Audit tool aims to let website owners control and monetize web data used by AI, potentially reshaping the future of the open web. A must-know topic in tech today!  
-draft: true
+draft: false
 ---
 
 Cloudflare's new AI Audit tool is a high-tech solution that's set to change how website owners and AI companies interact, especially when it comes to using web content.
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Cloudflares-AI-Audit-Monetising-Web-Content-in-the-Age-of-AI-e2ou9is" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### The Big Issue: AI Data Scraping and Copyright
 
