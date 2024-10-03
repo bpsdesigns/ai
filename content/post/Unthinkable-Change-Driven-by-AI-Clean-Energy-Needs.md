@@ -8,12 +8,14 @@ tags:
   - "Energy"
   - "China"
 description: "Exploring how AI and clean energy needs are driving surprising changes in US energy policies, including a renewed interest in nuclear energy and regulatory reforms"
-draft:  true
+draft:  false
 ---
 
 Our world is more connected than ever. We use a lot of gadgets and technology, many of which need **lots** of energy. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/The-Unthinkable-Change-Driven-by-AI-and-Clean-Energy-Needs-e2p5gal" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 You know those cool robots, smart devices, and AI programs? They need a power source, and a clean one at that.
 
