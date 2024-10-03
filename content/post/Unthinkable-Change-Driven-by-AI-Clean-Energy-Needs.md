@@ -1,6 +1,6 @@
 ---
 title: 'The Unthinkable Change Driven by AI and Clean Energy Needs'
-date: 2024-10-02T07:00:06+01:00
+date: 2024-10-03T07:00:06+01:00
 thumbnail: 'img/Unthinkable-Change-Driven-by-AI-Clean-Energy-Needs.png'
 images: 
 - 'img/Unthinkable-Change-Driven-by-AI-Clean-Energy-Needs.png'
