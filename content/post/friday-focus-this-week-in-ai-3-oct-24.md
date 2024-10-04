@@ -6,12 +6,14 @@ images:
 - 'img/friday-focus-week-in-ai.png'
 tags:
   - "Friday Focus"
-draft: true
+draft: false
 ---
 
 Welcome to this week's edition of "Friday Focus: This week in AI," where we dive into the most compelling and buzz-worthy topics in the world of artificial intelligence. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Friday-Focus---This-week-in-AI---04-Oct-24-e2p6p0i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### 1\. Rapid Evolution of AI Technology
 
