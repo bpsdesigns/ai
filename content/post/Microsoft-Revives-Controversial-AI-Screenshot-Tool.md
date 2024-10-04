@@ -6,12 +6,14 @@ images:
 - 'img/microsoft-recall.png'
 tags:
   - "Privacy"
-draft: true
+draft: false
 ---
 
 Have you ever worried about what tech companies do with your information? You're not alone. In May 2024, Microsoft introduced a tool called "Recall".
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Microsoft-Revives-Controversial-AI-Screenshot-Tool-e2p6le7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 It's not your average screenshot tool---it's super smart because it's powered by artificial intelligence (AI).
 
