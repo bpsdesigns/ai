@@ -15,7 +15,7 @@ If you've ever wanted a quick and easy way to plan your next vacation, AI might 
 
 <iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-Travel-Planning-A-Boon-or-a-Bust-e2p9qd7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-## The Rise of AI in Travel Plannin
+## The Rise of AI in Travel Planning
 
 In recent years, AI tools like ChatGPT, Google's Gemini, and platforms such as Trip Planner and Ask Layla have transformed the way some of us plan our travels. Can you imagine getting a complete vacation itinerary in just 15 seconds? Well, that's what some of these tools offer! They can recommend attractions, activities, and even suggest how much time you should spend at each place. In fact, about 1 in 10 people in Britain are already using AI to help plan their trips.
 
