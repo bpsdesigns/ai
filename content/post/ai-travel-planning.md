@@ -6,12 +6,14 @@ images:
 - 'img/ai-travel-planning.png'
 tags:
   - "Travel"
-draft: true
+draft: false
 ---
 
 If you've ever wanted a quick and easy way to plan your next vacation, AI might just be the answer, but like everything, it comes with its own set of pros and cons.
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-Travel-Planning-A-Boon-or-a-Bust-e2p9qd7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 **The Rise of AI in Travel Planning**
 
