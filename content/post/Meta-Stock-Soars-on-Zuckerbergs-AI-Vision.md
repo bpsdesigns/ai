@@ -14,6 +14,8 @@ Meta's stock price is on a thrilling ride, all thanks to CEO Mark Zuckerberg's a
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Meta-Stock-Soars-on-Zuckerbergs-AI-Vision-e2pbkot" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 It's like Meta's stocks are on rocket fuel, hitting an all-time high with investors buzzing over the new AI initiatives and products.
 
 ## So, what's Zuckerberg's master plan? 
