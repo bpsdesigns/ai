@@ -13,6 +13,8 @@ Imagine asking a robot and your favourite scientist to come up with new and clev
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/AI-vs-Human-Researchers-in-Idea-Generation-e2pd4c5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Well, that's essentially what researchers did, diving into a study to see how the ideas of an AI model match up against those of human researchers. Let's break down the key discoveries and what they might mean for the future of research.
 
 ## Meet the AI: Claude 3.5
