@@ -13,6 +13,8 @@ Welcome to this week's edition of "Friday Focus: This week in AI," where we dive
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Friday-Focus-This-week-in-AI---11-Oct-24-e2pgval" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Awesome Advancements in AI
 
 First up is **Multimodal AI**. This fancy term means that AI can now understand and work with different kinds of data like text, images, and sounds at the same time. Imagine a super-smart robot that can read a paragraph, look at a picture, and listen to a song, all while making sense of it like a human does. This makes AI much better at understanding the world the way we do.
