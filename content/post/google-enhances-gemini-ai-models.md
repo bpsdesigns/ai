@@ -1,12 +1,12 @@
 ---
 title: 'Google Enhances Gemini AI Models, Slashes Prices'
-date: 2024-10-11T07:00:11+01:00
+date: 2024-10-14T07:00:11+01:00
 thumbnail: 'img/google-enhances-gemini-ai-models.png'
 images: 
 - 'img/google-enhances-gemini-ai-models.png'
 tags:
   - "Google"
-draft: false
+draft: true
 ---
 
 Have you ever wondered how cool it would be if computers could help in doing math, understanding pictures, or just making conversations easier? 
