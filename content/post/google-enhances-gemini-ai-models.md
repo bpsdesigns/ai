@@ -13,6 +13,8 @@ Have you ever wondered how cool it would be if computers could help in doing mat
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Google-Enhances-Gemini-AI-Models--Slashes-Prices-e2phbsh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Well, Google has just given its Gemini AI models a major upgrade and cut down their prices, making these magical tech tools even more accessible and efficient for everyone.
 
 ## Big Brains and Magic Eyes
