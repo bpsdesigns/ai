@@ -6,7 +6,7 @@ images:
 - 'img/google-enhances-gemini-ai-models.png'
 tags:
   - "Google"
-draft: true
+draft: false
 ---
 
 Have you ever wondered how cool it would be if computers could help in doing math, understanding pictures, or just making conversations easier? 
