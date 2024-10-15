@@ -13,6 +13,8 @@ Have you ever wished your computer or phone could remember that cool science pro
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/The-Future-of-AI-Assistants-According-to-Microsoft-e2plp0f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Well, that might be just around the corner. Let's take a sneak peek into Microsoft's vision for the future of AI assistants!
 
 AI with a Memory Like an Elephant
