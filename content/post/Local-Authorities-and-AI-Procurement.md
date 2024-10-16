@@ -1,6 +1,6 @@
 ---
 title: 'Local Authorities and AI Procurement'
-date: 2024-10-15T07:00:22+01:00
+date: 2024-10-16T07:00:22+01:00
 thumbnail: 'img/Local-Authorities-AI-Procurement.png'
 images: 
 - 'img/Local-Authorities-AI-Procurement.png'
@@ -12,6 +12,8 @@ draft: false
 AI is a bit like a new kid on the tech block---everyone's talking about it, but not everyone knows how to handle it. 
 
 <!--more-->
+
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Local-Authorities-and-AI-Procurement-e2pn3aa" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 For local authorities, deciding which AI technology to bring on board is like trying to pick a winner in a game of horseshoes while blindfolded. The problem? There aren't enough signposts from the central government to guide the way.
 
