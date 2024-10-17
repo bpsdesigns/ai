@@ -13,6 +13,8 @@ The European Union is on a mission to make artificial intelligence (AI) safer an
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/EUs-Code-of-Practice-for-General-Purpose-AI-e2pp1aj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Let's take a closer look at what this means and why it's important.
 
 What is the Code of Practice?
