@@ -13,6 +13,8 @@ Welcome to this week's edition of "Friday Focus: This week in AI," where we dive
 
 <!--more-->
 
+<iframe src="https://podcasters.spotify.com/pod/show/artificial-insights-pod/embed/episodes/Friday-Focus-This-week-in-AI---18-Oct-24-e2pr2uo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### AI Research & Development: Prizes and Power
 
 Can you believe it? Two researchers from Google just snagged a Nobel Prize in Physics, all thanks to their work in AI! This win really shines a spotlight on AI's importance in science. But hold on, it's not all smooth sailing. The award has also kicked up debates about ethics in AI research and whether Google is getting too powerful in this space.
